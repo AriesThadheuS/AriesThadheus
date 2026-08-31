@@ -1,51 +1,61 @@
-# 🔬 Welcome to My R&D Lab! I'm Aries Thadheu S 👋
+# Aries Thadheu S
+### R&D Engineer | Applied Research & Systems Prototyping
 
-I don't just write code—I research, prototype, and build systems that solve real-world problems. As an R&D Engineer, my approach combines deep feasibility analysis with rapid prototyping to turn abstract ideas into scalable solutions.
+I bridge the gap between theoretical research and production-grade engineering. My focus lies in feasibility analysis, spatial computing, and developing scalable architectures for mobile and distributed systems. 
 
----
-
-### 🧪 The Lab Notes (What I'm up to)
-- 🏢 **Currently:** Honing my engineering skills as a Trainee at **CapeStart, Nagercoil**.
-- 🚀 **Tech Sandbox:** Mobile Architecture (Flutter & Kotlin), Geospatial Tracking, and Spatial Computing (AR/VR).
-- ⚙️ **My Process:** Problem Framing ➔ Feasibility Analysis ➔ Usability Testing ➔ Production.
-- 📫 **Ping Me:** [LinkedIn](https://linkedin.com/in/aries-thadheu-s) | [ariesthadheus0@gmail.com](mailto:ariesthadheus0@gmail.com)
+Currently building and researching as a Trainee at **CapeStart, Nagercoil**.
 
 ---
 
-### 🛠️ Instruments & Tech Stack
+### 📑 Research & Publications
 
-**Languages & UI Frameworks**
+- **Bharat Suraksha - Smart Safety Platform**
+  *5th International Conference on Computational Intelligence & Data Analytics (ICCT'26, 2026)*
+  **Paper ID:** `ICCT26005` | **Domain:** Geospatial Systems & Telemetry
+
+---
+
+### 🚀 Applied R&D & Prototypes
+
+**ProofEats | Next-Gen Food Ordering Architecture**
+* **Core Tech:** Kotlin, Jetpack Compose, Firebase, Appwrite, Room.
+* **Research Focus:** Engineered a transparency-first platform featuring short-video menu previews. Designed a real-time cascading rider dispatch algorithm and implemented offline-first Room persistence with a multi-payment checkout system.
+
+**Bharat Suraksha | End-to-End Safety Platform**
+* **Core Tech:** Flutter, Dart, Geospatial APIs.
+* **Research Focus:** Executed the full R&D lifecycle—problem framing, prototyping, and testing. Developed real-time geospatial tracking with one-tap SOS, refined through 3 rigorous usability testing cycles before Android deployment.
+
+**Interactive AR Prototyping | Spatial Computing**
+* **Core Tech:** AR/VR Tools, 3D Modeling.
+* **Research Focus:** Authored a technical research brief for an interactive AR experience. Built and benchmarked the prototype across multiple AR-compatible devices through iterative refinement cycles.
+
+---
+
+### 💻 Technical Arsenal
+
+**Languages & Frameworks**
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Backend, DB & Prototyping**
+**Infrastructure, BaaS & Prototyping**
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📑 Publications & Research
-- 📄 **Bharat Suraksha - Smart Safety Platform**
-  - *Published in:* 5th International Conference on Computational Intelligence & Data Analytics (**ICCT'26**, 2026)
-  - *Paper ID:* `ICCT26005`
-
----
-
-### 💡 Featured Prototypes & Engineering Projects
-
-- 🍔 **ProofEats:** A transparency-first food ordering platform (Kotlin, Jetpack Compose, Firebase). Features include short-video menu previews, offline-first Room persistence, and a real-time cascading rider dispatch algorithm.
-- 🛡️ **Bharat Suraksha:** An end-to-end smart safety platform featuring real-time geospatial tracking and one-tap SOS[cite: 1]. Refined through 3 rigorous usability testing cycles.
-- 🕶️ **Interactive AR Experience:** Authored a technical research brief and built an Augmented Reality prototype, successfully benchmarked across multiple AR-compatible devices.
-
----
-
-### 📊 GitHub Activity
+### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=nord" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<!-- 📫 Contact Details -->
+<p align="center">
+  <a href="mailto:ariesthadheus0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/aries-thadheu-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
