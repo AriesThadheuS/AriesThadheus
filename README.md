@@ -1,14 +1,14 @@
 # 🔬 Welcome to My R&D Lab! I'm Aries Thadheu S 👋
 
-I don't just write code—I research, prototype, and build systems that solve real-world problems[cite: 1]. As an R&D Engineer, my approach combines deep feasibility analysis with rapid prototyping to turn abstract ideas into scalable solutions[cite: 1].
+I don't just write code—I research, prototype, and build systems that solve real-world problems. As an R&D Engineer, my approach combines deep feasibility analysis with rapid prototyping to turn abstract ideas into scalable solutions.
 
 ---
 
 ### 🧪 The Lab Notes (What I'm up to)
 - 🏢 **Currently:** Honing my engineering skills as a Trainee at **CapeStart, Nagercoil**.
-- 🚀 **Tech Sandbox:** Mobile Architecture (Flutter & Kotlin), Geospatial Tracking, and Spatial Computing (AR/VR)[cite: 1].
-- ⚙️ **My Process:** Problem Framing ➔ Feasibility Analysis ➔ Usability Testing ➔ Production[cite: 1].
-- 📫 **Ping Me:** [LinkedIn](https://linkedin.com/in/aries-thadheu-s) | [ariesthadheus0@gmail.com](mailto:ariesthadheus0@gmail.com)[cite: 1]
+- 🚀 **Tech Sandbox:** Mobile Architecture (Flutter & Kotlin), Geospatial Tracking, and Spatial Computing (AR/VR).
+- ⚙️ **My Process:** Problem Framing ➔ Feasibility Analysis ➔ Usability Testing ➔ Production.
+- 📫 **Ping Me:** [LinkedIn](https://linkedin.com/in/aries-thadheu-s) | [ariesthadheus0@gmail.com](mailto:ariesthadheus0@gmail.com)
 
 ---
 
@@ -29,8 +29,8 @@ I don't just write code—I research, prototype, and build systems that solve re
 ---
 
 ### 📑 Publications & Research
-- 📄 **Bharat Suraksha - Smart Safety Platform**[cite: 1]
-  - *Published in:* 5th International Conference on Computational Intelligence & Data Analytics (**ICCT'26**, 2026)[cite: 1]
+- 📄 **Bharat Suraksha - Smart Safety Platform**
+  - *Published in:* 5th International Conference on Computational Intelligence & Data Analytics (**ICCT'26**, 2026)
   - *Paper ID:* `ICCT26005`
 
 ---
@@ -38,8 +38,8 @@ I don't just write code—I research, prototype, and build systems that solve re
 ### 💡 Featured Prototypes & Engineering Projects
 
 - 🍔 **ProofEats:** A transparency-first food ordering platform (Kotlin, Jetpack Compose, Firebase). Features include short-video menu previews, offline-first Room persistence, and a real-time cascading rider dispatch algorithm.
-- 🛡️ **Bharat Suraksha:** An end-to-end smart safety platform featuring real-time geospatial tracking and one-tap SOS[cite: 1]. Refined through 3 rigorous usability testing cycles[cite: 1].
-- 🕶️ **Interactive AR Experience:** Authored a technical research brief and built an Augmented Reality prototype, successfully benchmarked across multiple AR-compatible devices[cite: 1].
+- 🛡️ **Bharat Suraksha:** An end-to-end smart safety platform featuring real-time geospatial tracking and one-tap SOS[cite: 1]. Refined through 3 rigorous usability testing cycles.
+- 🕶️ **Interactive AR Experience:** Authored a technical research brief and built an Augmented Reality prototype, successfully benchmarked across multiple AR-compatible devices.
 
 ---
 
